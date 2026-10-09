@@ -1,0 +1,7 @@
+# OpenNMS Horizon: open-source network monitoring and management platform.
+# https://github.com/OpenNMS/opennms, scanned at the develop branch (the next major release).
+repo: https://github.com/OpenNMS/opennms#develop
+primary_contact: security@opennms.com
+homepage: https://www.opennms.com/
+disabled: false
+# The Dockerfile and threat_model.md live next to this file.
